@@ -20,6 +20,8 @@ search: true
 # Introduction
 
 This is a test of deploying the GitHub repo via Netlify -DLS
+I cloned the git repository to my hard drive and made this edit to the index.html.md file using nano. 
+Now I will attempt to push these changes to GitHub and run the deploy script.
 
 # Authentication
 
